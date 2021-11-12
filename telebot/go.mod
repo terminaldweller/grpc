@@ -1,4 +1,4 @@
-module github.com/terminaldweller/grpc/telebot/protobuf/v1
+module github.com/terminaldweller/grpc/telebot/v1
 
 go 1.15
 
