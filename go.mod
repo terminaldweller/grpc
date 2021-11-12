@@ -1,4 +1,4 @@
-module github.com/terminaldweller/grpc/telebot/v1
+module github.com/terminaldweller/grpc
 
 go 1.15
 
