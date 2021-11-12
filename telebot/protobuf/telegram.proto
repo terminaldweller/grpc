@@ -2,7 +2,7 @@ syntax= "proto3";
 package hived;
 
 import "google/protobuf/timestamp.proto";
-option go_package ="../protobuf";
+option go_package ="github.com/terminaldweller/grpc/telebot/protobuf/telegram.pb.go";
 
 message NotificationRequest {
   reserved 4 to 7;
